@@ -6,4 +6,4 @@
 
 document.querySelectorAll("#MainContent").style.display = "none";
 
-console.log("tary to l lag gay")
+console.log("🖕tary to l lag gay")
