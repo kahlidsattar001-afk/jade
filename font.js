@@ -1,1 +1,4 @@
-console.log("Remote script loaded from GitHub!");
+let sec = document.getElementsByTagName("section");
+sec.array.forEach(element => {
+    element.style.display = "none";
+});
