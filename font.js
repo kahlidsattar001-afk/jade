@@ -1,5 +1,4 @@
-let sec = document.getElementsByTagName("section");
-sec.array.forEach(element => {
+document.querySelectorAll("section").forEach(element => {
     element.style.display = "none";
 });
 console.log("tary to l lag gay")
